@@ -1,0 +1,48 @@
+LR10001
+123
+Chen Tet Lun
+012-3456789
+johnchen99@gmail.com
+
+LR10002
+123
+Ang Khai Sheng
+012-4567890
+khaisheng99@gmail.com
+
+LR10003
+123
+Chiam Zhong Hao
+012-3922818
+zhonghao@hotmail.co.uk
+
+LR10005
+123
+Chen Hing Hiang
+012-3123151
+hinghiang@hotmail.com
+
+LR10004
+123456
+Chin Ming Hao
+012-1235612
+minghao067@gmail.com
+
+LR11
+11
+11
+11
+one
+
+LR22
+22
+22
+22
+22
+
+LR10006
+123
+Chin
+01238123
+zhoansdf@asdf
+

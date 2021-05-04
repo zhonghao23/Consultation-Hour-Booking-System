@@ -1,0 +1,147 @@
+SD10001
+123
+Loo Xiao Dong
+BSc (Hons) in Computer Science Year 2
+012-3456789
+xiaodong99@gmail.com
+
+SD10002
+123
+Chong Lin Yuan
+BSc (Hons) in Accounting Year 1
+012-4567890
+linyuan99@gmail.com
+
+SD10003
+123
+Chin Boon Hong
+BSc (Hons) in Accounting Year 3
+012-3851323
+boonboon@gmail.com
+
+SD10004
+123123
+Loo Ming Chen
+BSc (Hons) in Business Year 2
+016-1239103
+mingchen@gmail.com
+
+SD10005
+123456
+James Harden
+BSc (Hons) in Business Admin Year 3
+016-3981293
+jamesharden@gmail.com
+
+SD10006
+123456
+Lebron James
+BSc (Hons) in Computer Science Year 1
+012-3192313
+lebronjames@gmail.com
+
+SD10007
+123
+Russell Westbrook
+BSc (Hons) in Accounting Year 2
+012-2391392
+russellwestbrook@gmail.com
+
+SD10008
+123
+Trae Young
+BSc (Hons) in IT Year 3
+012-1203913
+traeyoung@gmail.com
+
+SD10009
+123
+Luka Doncic
+BSc (Hons) in Software Engineering Year 1
+016-1239123
+lukadoncic@gmail.com
+
+SD10010
+1234
+Donovan Mitchell
+BSc (Hons) in Computer Science Year 3
+016-4920392
+donovanm@hotmail.com
+
+SD10011
+123
+James Chen
+BSc (Hons) in Software Engineering Year 1
+016-1239123
+jameschen@gmail.com
+
+SD10012
+123
+Yong Shuet Yee
+BSc (Hons) in Graphic Design Year 2
+012-3123132
+shuetyee@gmail.com
+
+SD10013
+123
+Lee Shun Ying
+BSc (Hons) in Accounting Year 3
+016-1239123
+shunying@gmail.com
+
+SD10014
+123
+Ivan Hiew
+BSc (Hons) in Psychology Year 1
+016-3829132
+ivanhiew@hotmail.com
+
+SD10015
+123
+Kong Jia Nam
+BSc (Hons) in Economy Year 2
+017-2932032
+jianam@hotmail.com
+
+SD10016
+123
+Ng Jing Chong
+BSc (Hons) in IT Year 1
+016-9872321
+jingchong@gmail.com
+
+SD10017
+123
+Man Sung Kang
+BSc (Hons) in Science Year 3
+012-3980212
+sungkang@gmail.com
+
+SD10018
+123
+Lai Kah Jun
+BSc (Hons) in IT Year 2
+016-1230921
+kahjun@hotmail.com
+
+SD10019
+123
+Angg Khaii Sheng
+BSc (Hons) in Accounting
+012-1231233
+khaishenggg@gmail.com
+
+SD33
+33
+33
+33
+33
+33
+
+SD44
+44
+44
+44
+44
+44
+
